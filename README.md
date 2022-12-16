@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uttam Patra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Passionate frontend developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -21,7 +21,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/uttampatra01/](https://www.linkedin.com/in/uttampatra01/)
 
-- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
