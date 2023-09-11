@@ -3,15 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uttampatra21&label=Profile%20views&color=0e75b6&style=flat" alt="uttampatra21" /> </p>
 
-- 🌱 I’m currently learning **React.js, Javascript**
+- 🌱**ReactJs, NextJs, Typescript, Javascript, Redux**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/uttampatra01/](https://www.linkedin.com/in/uttampatra01/)
+- 👨‍💻 Projects are available at [https://www.linkedin.com/in/uttampatra01/](https://www.linkedin.com/in/uttampatra01/)
 
-- 💬 Ask me about **javascript**
-
-- 📫 How to reach me **dev.uttampatra@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/uttampatra01/](https://www.linkedin.com/in/uttampatra01/)
+- 📫 Get in touch **dev.uttampatra@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
